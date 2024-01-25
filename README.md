@@ -1,4 +1,4 @@
-# esn 
+ 
 
 #项目地址：https://github.com/GhosteEsn/GhostGPT
-群地址：
+#ESN社区官方群地址：https://t.me/esnshequ
