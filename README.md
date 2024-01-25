@@ -6,9 +6,9 @@
 
 </head>
 <body>
-{$header}
+
 <div align="center" style="width: 50%; margin: auto;">
-	<img src="images/logo.png">
+
 	<h1>欢迎访问 </h1>
 	<h2>电报群：https://t.me/esnshequ</h2>
 	<h4>ESNt—微信公众号Esn技术社区专属交流群,我们只是一群利用空余时间来增长自己的兴趣爱好的普通人</h4>
