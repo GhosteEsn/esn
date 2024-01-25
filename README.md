@@ -22,6 +22,4 @@
 </html>
 
 个人微信：Hackr2010
-![微信号](https://github.com/GhosteEsn/esnshequ/assets/149897050/28a60728-7ec1-4996-a13e-96df39f7f3ee)
-社区微信公众号：esnshequ
-![微信公众号](https://github.com/GhosteEsn/esnshequ/assets/149897050/c9148c6f-cd5d-417c-9cfb-18b46dfdeada)
+![541e570ab886161f2202d3302f1a64acbfdaf66c](https://github.com/GhosteEsn/esnshequ/assets/149897050/8b4a4159-ec9e-4c54-b232-3c5d8e071577)
