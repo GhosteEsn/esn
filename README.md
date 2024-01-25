@@ -15,8 +15,13 @@
 	<br>
 
 
-        <h2>个人微信：Hackr2010</h2>
+   个人微信：Hackr2010
 
 </div>
 </body>
 </html>
+
+个人微信：Hackr2010
+![微信号](https://github.com/GhosteEsn/esnshequ/assets/149897050/28a60728-7ec1-4996-a13e-96df39f7f3ee)
+社区微信公众号：esnshequ
+![微信公众号](https://github.com/GhosteEsn/esnshequ/assets/149897050/c9148c6f-cd5d-417c-9cfb-18b46dfdeada)
