@@ -6,7 +6,6 @@
 
 </head>
 <body>
-{$header}
 <div align="center" style="width: 50%; margin: auto;">
 	<img src="logo.png">
 	<h1>欢迎访问 </h1>
